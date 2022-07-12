@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Mukul Garg",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1136@iiitkota.ac.in",
+        "phone": "+917611825169",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Mandawari",
+            "postalCode": "303504",
+            "city": "Mandawari",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "mukular",
+                "url": "https://github.com/mukular"
+            },
+            {
+                "network": "linkedin",
+                "username": "MUKUL GARG",
+                "url": "https://www.linkedin.com/in/mukul-garg-6886a922b/"
+            },
+            {
+                "network": "Instagram",
+                "username": "mukulgarg6194",
+                "url": "https://www.instagram.com/mukulgarg6194/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "",
+            "keywords": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
